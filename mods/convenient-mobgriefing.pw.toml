@@ -1,0 +1,13 @@
+name = "Convenient mobGriefing"
+filename = "convenient-mobgriefing-2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85f21fd3a8f71dbb669739f4bce5e12eb0578a1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3355080
+project-id = 374048

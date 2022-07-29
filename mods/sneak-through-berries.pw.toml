@@ -1,0 +1,14 @@
+name = "Sneak Through Berries"
+filename = "stb-5.0.0+1.19-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xq3wqd0E/versions/5.0.0+1.19-fabric/stb-5.0.0%2B1.19-fabric.jar"
+hash-format = "sha1"
+hash = "bc375e7a09f04b36b905b3bf8b546bf5375400fd"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "xq3wqd0E"
+version = "BAB2kwVi"

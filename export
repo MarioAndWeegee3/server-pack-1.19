@@ -1,0 +1,3 @@
+#!/bin/bash
+
+packwiz cf export -o pack.zip -s server

@@ -1,0 +1,14 @@
+name = "EssentialClient"
+filename = "essential-client-1.19-1.2.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sH0dfrKf/versions/mc1.19-v1.2.3/essential-client-1.19-1.2.3.jar"
+hash-format = "sha1"
+hash = "9a67c136aa75ec29296a96261dc99ee9c5a6ec98"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "sH0dfrKf"
+version = "vlyDlBcb"

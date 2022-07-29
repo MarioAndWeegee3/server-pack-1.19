@@ -1,0 +1,13 @@
+name = "Textile Backup"
+filename = "textile_backup-2.4.0-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a0ad584b81866fdd9499e777f9607f1f5dcee2a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3844791
+project-id = 359893

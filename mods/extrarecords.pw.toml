@@ -1,0 +1,14 @@
+name = "Extra Records"
+filename = "extrarecords-3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DgdHr1a1/versions/3.3/extrarecords-3.3.jar"
+hash-format = "sha1"
+hash = "abc7823a78fad932f9f934935398225fd63c5972"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "DgdHr1a1"
+version = "wuJg2vXi"

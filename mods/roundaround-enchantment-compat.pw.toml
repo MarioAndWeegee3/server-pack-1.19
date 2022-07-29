@@ -1,0 +1,14 @@
+name = "Roundaround's Enchantment Compatibility"
+filename = "enchantmentcompat-1.0.0+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmxvfgSx/versions/1.0.0/enchantmentcompat-1.0.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "efb7402b3fd545c67d62e86322c863d5e4085a8d"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "nmxvfgSx"
+version = "NiGEWvu1"

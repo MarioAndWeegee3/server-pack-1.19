@@ -1,0 +1,14 @@
+name = "Grindstone Is Made Of Stone"
+filename = "grindstone-is-made-of-stone-mc1.19-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UkKCoM9E/versions/mc1.19-2.1/grindstone-is-made-of-stone-mc1.19-2.1.jar"
+hash-format = "sha1"
+hash = "f74bb83309b943ce5431d908154a392333bf5a18"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "UkKCoM9E"
+version = "lxvS5f7R"

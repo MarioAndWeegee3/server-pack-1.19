@@ -1,0 +1,14 @@
+name = "Short Grass"
+filename = "short-grass-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iNwbMivl/versions/1.1.0/short-grass-1.1.0.jar"
+hash-format = "sha1"
+hash = "d473113f37ea1469e4632b1b8edfb25ce8208c33"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "iNwbMivl"
+version = "70punseE"

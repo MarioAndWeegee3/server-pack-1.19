@@ -1,0 +1,14 @@
+name = "Slabs From Wood"
+filename = "slabs-from-wood-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FY3Zf4mT/versions/1.0.4/slabs-from-wood-1.0.4.jar"
+hash-format = "sha1"
+hash = "41e2bc8d1117bcc3aee0240e9456d578ecf3beed"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "FY3Zf4mT"
+version = "zrwikcpW"

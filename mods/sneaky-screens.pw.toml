@@ -1,0 +1,13 @@
+name = "Sneaky Screens"
+filename = "sneakyscreens-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "309e74578a4cf94927e3da9aaa1b414536d17dc1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3833807
+project-id = 357819

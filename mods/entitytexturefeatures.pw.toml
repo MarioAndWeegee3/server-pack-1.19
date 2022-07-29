@@ -1,0 +1,14 @@
+name = "Entity Texture Features [Fabric]"
+filename = "entity_texture_features_fabric-4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/4.0.0.fabric/entity_texture_features_fabric-4.0.jar"
+hash-format = "sha1"
+hash = "2b7b5aeb2975c17c1523fcf4828c29fe182bac64"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "BVzZfTc1"
+version = "XSgZG7Of"
