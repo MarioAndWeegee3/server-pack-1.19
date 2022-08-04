@@ -50,7 +50,7 @@ hash = "ca509b6efe280fb0b90c0842d8d6470f56cf92e99edfd997a279ad585dabf793"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "0b994eb73e8aea8f5d5670f54901ab1758f5690dc59f85dd691df251cbd6c67e"
+hash = "8fc3775800b4716d818394d2d8979154d94be4f2a52227538772a83a4b974bcd"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "e796dd2bc1f08dad13221c0605b2002686de294d9ce16e627212e0bd101c9b01"
+hash = "2f04cc665bdae0229602ef22b7c031bd523a7276b7305df1f933123194618ea3"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-signs.pw.toml"
-hash = "38ed7d2306435daebe478ce180d15bb255d5db78e66d992e2c56f7021d0a5b74"
+hash = "e33dd922724aa8352d49877b024509c5497941d6f00df1b9432e42d608c59a71"
 metafile = true
 
 [[files]]
@@ -194,13 +194,13 @@ hash = "4700c48ce4ddf2933e613a5871935da5a5d2d31f65fe4e81122b0441076494f1"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "85ebb0df9d958fede547f04d88b59d71284e919a27f152f60b3c03563cac22f5"
+file = "mods/colormatic.pw.toml"
+hash = "e937f69ea0e915afcec0ccf93d4cf7f1ce1b295bfc6396c3c9e05d714494545d"
 metafile = true
 
 [[files]]
-file = "mods/colormatic.pw.toml"
-hash = "e937f69ea0e915afcec0ccf93d4cf7f1ce1b295bfc6396c3c9e05d714494545d"
+file = "mods/comforts-fabric.pw.toml"
+hash = "3371e3d6c0af79bcf044ecb0915f942b5f2861af80c2411a8dafa308ef88845b"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "a9f17f67c3883a20f904cf54f61d5be045d8d3faec6c04cc87eb65304c935459"
+hash = "f02e2f23261b96c17802d9e69fe88378aa03d5139b926435b32b8014a819c39c"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "9d80429b6850cbcc91469769c88678221c2c44814f000972142f0a44a2fd84e1"
+hash = "7de1d145e9b58014bb9333a08cf3a0e32603715f3d2bad7b05b414ce4f59b511"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "5dc09aa39836e32c785297fd6e34c70e1ca9cb80264da8b088e0bc166b69d9e9"
+hash = "6132e93aaf43ceb9052ec20fb0b67f656a3b1af3ce90cd6ae517f3ee8088136b"
 metafile = true
 
 [[files]]
@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "adc0c8bf75a742bb5c296e93098ac1e461586ff81682c244d772162482196c5b"
+hash = "69bcad845a9e79ec82bed3c468f070d6d43084d35d85e6a9da8a50d7918197ae"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "a8f38c0adf08de0ea8a04120a0ce2cb20db8084527958b8e97a3bc21453b9916"
+hash = "c3dd3caa956d8f86af0b3868a9792302797f7c9ded062da0f1db153babd66e75"
 metafile = true
 
 [[files]]
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "7b12e2521aad003e0ed3ec2fa89e936a1db238e580ddc5c98667dacd5dbf9e37"
+hash = "83df85d20b5eeebf1cd729d1e04c720cb84fa5450dca4cd3ad240f8f45414d44"
 metafile = true
 
 [[files]]
@@ -580,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "4f033c8165f561c19dd99c3c4a8017dc3cba9f655f6371582f14118a0ec093b4"
+hash = "7c6f48699206681669f5a53c8b6d5980cc5946e968507ee53adb25fe59252f1a"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "2ef13c149683082f03bb6dfdda4126c844cfdeba7e4c7ef9e012518978a88f3f"
+hash = "114a46842bf3db1dd5be831f0433be0720a4b5632fc1f36f132104e02d096765"
 metafile = true
 
 [[files]]
@@ -655,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "3b844af49d5b0acd4186811e038c5b220201608f028ad1bd2fb23316c09ea6db"
+hash = "2d5f3ac46bdb02184c25cd778efa4d817b2c609f7184aec74ef03a600a48801e"
 metafile = true
 
 [[files]]
@@ -710,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/suggestion-tweaker.pw.toml"
-hash = "b3bee527a4346452d174fd6f0806c30a2626309f19eb335c15629834dc5d3b58"
+hash = "dc117d0aa39db2401895679dedb8a419dafd8b8fce271cd95e97bc19643dfc86"
 metafile = true
 
 [[files]]
