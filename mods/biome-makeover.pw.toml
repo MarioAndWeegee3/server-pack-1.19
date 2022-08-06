@@ -1,14 +1,14 @@
 name = "Biome Makeover"
-filename = "biomemakeover-FABRIC-1.19-1.5.9.jar"
+filename = "biomemakeover-FABRIC-1.19.1-1.5.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jG8Q2YwT/versions/fabric-1.19-1.5.9/biomemakeover-FABRIC-1.19-1.5.9.jar"
+url = "https://cdn.modrinth.com/data/jG8Q2YwT/versions/1.19.1-1.5.11/biomemakeover-FABRIC-1.19.1-1.5.11.jar"
 hash-format = "sha1"
-hash = "29de72bfbe85cd51065b8b5c06c1bdf79e2e15cc"
+hash = "0b17bdc25ab6dacdd0c45ea63cdbfdcc09ea4bbd"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "jG8Q2YwT"
-version = "gLapWtBn"
+version = "2mSORAxJ"

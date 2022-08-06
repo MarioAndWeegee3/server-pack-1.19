@@ -1,14 +1,14 @@
 name = "InfiniteVillagerTrading"
-filename = "infinitevillagertrading-1.19-fabric0.53.3-1.1.jar"
+filename = "infinitevillagertrading-1.19.1-fabric0.58.5-1.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/FDXO8hkq/versions/1.19-fabric0.53.3-1.1/infinitevillagertrading-1.19-fabric0.53.3-1.1.jar"
+url = "https://cdn.modrinth.com/data/FDXO8hkq/versions/1.19.1-fabric0.58.5-1.1/infinitevillagertrading-1.19.1-fabric0.58.5-1.1.jar"
 hash-format = "sha1"
-hash = "f7e4e9ad0038374c472ca33573407c2c71d9fb36"
+hash = "6f01429cc1e293b383ffc8514f17f68f97585406"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "FDXO8hkq"
-version = "93qqWDkP"
+version = "o3LczZDs"

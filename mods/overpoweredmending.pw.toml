@@ -1,14 +1,14 @@
 name = "OverpoweredMending"
-filename = "OverpoweredMending-1.19-2.5.2.jar"
+filename = "OverpoweredMending-1.19.1-2.6.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DKzFWXbg/versions/1.19-2.5.2/OverpoweredMending-1.19-2.5.2.jar"
+url = "https://cdn.modrinth.com/data/DKzFWXbg/versions/1.19.1-2.6.1/OverpoweredMending-1.19.1-2.6.1.jar"
 hash-format = "sha1"
-hash = "bcf92877fe3c753908d72d98f3a1ccbb6adbd89d"
+hash = "6a2e6d493ddcb726f36eb01ee813e04249c802f2"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "DKzFWXbg"
-version = "R1Vh71cw"
+version = "Cj7RKOo7"
