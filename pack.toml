@@ -1,13 +1,16 @@
 name = "Server Pack 1.19"
 author = "MarioAndWeegee3"
-version = "1.0.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0f068d4b8d69135f9e25e54d1c4ebc8542628ffc83339c666db70293ff20046f"
+hash = "04621f3c0757a5dd233ad8b254c632895abdb4b4850b9309ddeb9928ad19aab5"
 
 [versions]
-minecraft = "1.19.1"
-quilt = "0.17.1"
+minecraft = "1.19.2"
+quilt = "0.17.3"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]

@@ -1,0 +1,14 @@
+name = "PinLib"
+filename = "pinlib-0.1.3+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KDIB4Axr/versions/mm2MRBhd/pinlib-0.1.3%2B1.19.jar"
+hash-format = "sha1"
+hash = "1051e6c1a35cdb44435def5fc8e68f5330cddf98"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "KDIB4Axr"
+version = "mm2MRBhd"
