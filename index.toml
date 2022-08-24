@@ -45,10 +45,6 @@ file = "config/midnightcontrols.json"
 hash = "e221a325f026cf35250bf7c08f98b293c408ff96bfa3445fe6ffa4ee1d2e5abd"
 
 [[files]]
-file = "export"
-hash = "ca509b6efe280fb0b90c0842d8d6470f56cf92e99edfd997a279ad585dabf793"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "8fc3775800b4716d818394d2d8979154d94be4f2a52227538772a83a4b974bcd"
 metafile = true
