@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/globalpacks.pw.toml"
-hash = "9ede57ba3bf0a0181872ec54a407fcacf2c6ecca4c4a12d55b1bca6f2b8d03c1"
+hash = "3fae31f5a7518e2822c401d2753be224ecaa8b75d41f43ab8f9a74ee3159715c"
 metafile = true
 
 [[files]]
@@ -544,6 +544,11 @@ hash = "5b8b73c42cbdbe1df16c8b17fa3ed90d79831defb9d3bdfa875e849da4687e4c"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "f33984cbbf0d0fb99302b2d70e7eb6b1fefa6839668e972ca7550a1abf26f756"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "275f9a6520e92b0c880c2b1a0fcae0612858530931961a4d64d3fee636672ec7"
 metafile = true
@@ -626,11 +631,6 @@ metafile = true
 [[files]]
 file = "mods/silk-spawners.pw.toml"
 hash = "37cf20fadd37b0e4975cdce9b748e8d800c6466beb971b7a8db1ecf69e20490c"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "7ff5ffc5dd8c0766f8bc5d92cb3bd458e77fa5e789e54fdd4e6fbbc494ba1b99"
 metafile = true
 
 [[files]]
