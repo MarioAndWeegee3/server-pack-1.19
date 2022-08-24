@@ -49,6 +49,10 @@ file = "export"
 hash = "ca509b6efe280fb0b90c0842d8d6470f56cf92e99edfd997a279ad585dabf793"
 
 [[files]]
+file = "install-from-source.sh"
+hash = "ee44a8c0b6650d5002a4b46c3859cf18f51f4bae4460c092da1bf7b7f9ae4952"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "8fc3775800b4716d818394d2d8979154d94be4f2a52227538772a83a4b974bcd"
 metafile = true
@@ -469,11 +473,6 @@ hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "7076f0236db7652d6653a24c5aa60a3e265a77a9c137d8ecac837143556fcb46"
-metafile = true
-
-[[files]]
 file = "mods/microdurability.pw.toml"
 hash = "280f6f86450410ed49367246de994f43b37eb2726ddbc81d0b3edd4594ac0d38"
 metafile = true
@@ -541,11 +540,6 @@ metafile = true
 [[files]]
 file = "mods/perfect-accuracy.pw.toml"
 hash = "c2765518ee95c0d9c975284b2beef1f70042f3bfe7f2290a415512eaf729fa7d"
-metafile = true
-
-[[files]]
-file = "mods/pinlib.pw.toml"
-hash = "34e04f5348a2936d4d451fcc53bd0f6f14b4dea324d47c8b34823e6703330f00"
 metafile = true
 
 [[files]]
