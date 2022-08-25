@@ -1,0 +1,14 @@
+name = "Deepslate Instamine"
+filename = "DeepslateInstamine_mc1.19.2-2.1_release-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g7kBNY9K/versions/2.1_release_fabric_1.19.2/DeepslateInstamine_mc1.19.2-2.1_release-fabric.jar"
+hash-format = "sha1"
+hash = "bda35d581e8d4ccde02e8ac3b74039bac6667863"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "g7kBNY9K"
+version = "p4zTmE7v"

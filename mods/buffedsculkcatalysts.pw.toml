@@ -1,0 +1,14 @@
+name = "BuffedSculkCatalysts"
+filename = "buffedsculkcatalysts-mc1.19.1-pre6-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iPIwc051/versions/1.0.0/buffedsculkcatalysts-mc1.19.1-pre6-1.0.0.jar"
+hash-format = "sha1"
+hash = "65539f3799cb4d7d52cae9729e974adc670e9e8e"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "iPIwc051"
+version = "2slwCSme"

@@ -1,0 +1,14 @@
+name = "Use Glowstone dust as Glow Ink Sacs"
+filename = "glowstoneinc-1.19.2-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uA64QpSM/versions/kMyxvejM/glowstoneinc-1.19.2-2.jar"
+hash-format = "sha1"
+hash = "bc54f2214d7948fed656ea8d7612a3bce0682179"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "uA64QpSM"
+version = "kMyxvejM"

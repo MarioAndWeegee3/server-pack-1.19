@@ -1,0 +1,14 @@
+name = "Double-Tap Dash"
+filename = "dash-1.2.1-1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nOA6YVAg/versions/1.2.1-1.19/dash-1.2.1-1.19.jar"
+hash-format = "sha1"
+hash = "8503691bd393e767592f4fb3f458f11822915ff3"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "nOA6YVAg"
+version = "41NWTyOP"
