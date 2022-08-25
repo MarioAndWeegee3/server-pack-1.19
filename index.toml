@@ -21,6 +21,10 @@ file = "config/charm.toml"
 hash = "2c997b61188348f225d2f04e4b968da476e4b9b2ce185998de150e94c5780dcd"
 
 [[files]]
+file = "config/dash.properties"
+hash = "08cfb15bbe211fbaed3ba8f5827b9ac8778a2fd5cd694522f78f86bf1b0a4e7f"
+
+[[files]]
 file = "config/deepslatecutting.toml"
 hash = "160e2757eba9cefa9543e6e180b43ecde0c5f38f45d43c11dbe5fc9f80efe2da"
 
