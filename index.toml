@@ -319,11 +319,6 @@ hash = "2837c17e6f662072797b7ef39d546818072b9c9fadc878cc10f340e418419711"
 metafile = true
 
 [[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
-hash = "f0c1f9252dbd5b849eb8e2a596a29de7308e4c8eba25341511a1df89c6101f4f"
-metafile = true
-
-[[files]]
 file = "mods/double-tap-dash.pw.toml"
 hash = "2dcf5b04f751368d27268b9ddb9bc22ce8496397798d5c424fb02c5761499897"
 metafile = true
@@ -376,6 +371,11 @@ metafile = true
 [[files]]
 file = "mods/ellemes-container-library.pw.toml"
 hash = "cf9c08e9c7d76150fcb49babe437b495693b165b4d77ed6eac5f8b2934e97683"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot-fabric.pw.toml"
+hash = "0e47b1328fabc6872c409910a090ec24051381f23e289efd6d0507d63013adbc"
 metafile = true
 
 [[files]]
