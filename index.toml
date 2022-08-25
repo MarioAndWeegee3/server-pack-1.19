@@ -525,6 +525,11 @@ hash = "aee18e366adf3ea2bf52907f568ed8f19302cdf948618888d7ef69feccd2a4c1"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "7ec8a6c428be62a0028d2e55583848583f1fbddb8c97dfa9e252c5dbf14bddd0"
+metafile = true
+
+[[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "a29e6e2e91bde9f692ea7013ed3114ce0e81732722b50065951a10c7dfad723f"
 metafile = true
@@ -667,6 +672,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "7c6f48699206681669f5a53c8b6d5980cc5946e968507ee53adb25fe59252f1a"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "fb54f11855f4dc0ba4eb869b593d56b8a9984b7a4c955201eb3d93ae64229aa1"
 metafile = true
 
 [[files]]
@@ -842,6 +852,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
 hash = "28453bbd15df6702de11a7206a08671b3549cd3c0a664863cdcfe690a9213aee"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "5b02ff4b479157c4fcce8582b29c193583d96606296fadcfe0e67c65c5780bf5"
 metafile = true
 
 [[files]]
