@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/blast-travel.pw.toml"
-hash = "82fd88d09b0a3425a826621b123082486ae608ee88cb06b7d3a885f74c6a9e41"
+hash = "f659ce8bc2196bfe9ea51c5d6774204bb52d8a5b8c3705d85a56782653af43a1"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-magic.pw.toml"
-hash = "3e1293856008d5b5196c3f95a54d7bae60efe657c7176e5c6f0f85eb2633f149"
+hash = "d61ca564f268c17f07eedb4d73c99f3f95a5631ab6809ab094b297f4851604bf"
 metafile = true
 
 [[files]]
