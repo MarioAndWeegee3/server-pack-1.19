@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "167b8d427282af040d495e9063ca5930d15b238bcb16c479d79dd58b5b7a3017"
+hash = "08fe01ef16287560b10dde772aee5187e039d83b739e9cf1cfca97060a5ec591"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/blast-travel.pw.toml"
-hash = "55c1f92867848c2c04cf30c90e8f83a2f1c8ba8c5562e276f668d099c5fdba0b"
+hash = "82fd88d09b0a3425a826621b123082486ae608ee88cb06b7d3a885f74c6a9e41"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "571251a12f49f5542775ca3ced589e23ad622fc2b93ec3cecf1a7eb77f33eb2f"
+hash = "ff3e70efe81b7767326c3b8a3f082c428d42db9420d7b1376d9e75fc716a1df4"
 metafile = true
 
 [[files]]
@@ -495,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinitybuttons.pw.toml"
-hash = "85fae71989193f09f1d9510e82ed8c9078be0653a260253faa3933bda5c4c84b"
+hash = "219b112df3826b4d9bb340edf2932006b080394234e901ce24303cd3e9a0e26e"
 metafile = true
 
 [[files]]
@@ -675,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "fb54f11855f4dc0ba4eb869b593d56b8a9984b7a4c955201eb3d93ae64229aa1"
+hash = "fb83b54690c072b68e60e99e4d1ccf67dcd3674a39f3f79b1fba05ffefa5a97a"
 metafile = true
 
 [[files]]
@@ -915,5 +915,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "36aa5fb2534f76e95fa92cede287cb0386ed480146bcaef9aef9b5b36beeac06"
+hash = "09e90907a85d511f92c0699918c9d6ee47889de3690bc3ec92be6a6c3c9d0e04"
 metafile = true
