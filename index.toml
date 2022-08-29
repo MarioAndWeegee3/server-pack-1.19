@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "d0c1fa20e64fbf39e72a7122fc30f1bb9e4e16322dea95d9347844198ec2480c"
+hash = "ce4ac18e5308cb21116ad5606c83d2700399550353af992fd0ce11ad98f7bc4f"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/free-cam.pw.toml"
-hash = "9a50e4888bee056f6a15ba55d276e6d8ff6d40d570031b80b3b9aeb09069e85e"
+hash = "cc81502b4e59b73cbb5ad77dc1c15b5a50115c13549b362a054604820c4aa326"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "6132e93aaf43ceb9052ec20fb0b67f656a3b1af3ce90cd6ae517f3ee8088136b"
+hash = "6328767ca48746cb056fbbc62e9d8c7bed3d7a507bfaf2f03fc16bc97719cca8"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "7633c9755af9dbd592fb6fa5769a9e09512272b84368a5d8ada3509c5770e424"
+hash = "2f282ae7d6e57e005b014ea8c54c01c6b4dace4f6b1481b51ffccf215ace1864"
 metafile = true
 
 [[files]]
@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c863b8a55388fede1372d5528c3a5a0a399f7cd7137856a3b172806b84a45b5f"
+hash = "df7973753772957b7457246366135a7f22b9a38d49d30e3ad5f5d8c57aba928d"
 metafile = true
 
 [[files]]
@@ -795,12 +795,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "4e55f563fbab92bd925ba97b11ac27dd65ef4b11cf3ba6d8ee0e2f9b08c1580e"
+hash = "4926661a7b58020935022c9a84c5263293611d7f8c7ba82b1c261cef89794775"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c77f162c7072a9bb922faf3bd5f223ce4f57973d531cc32484a7dcf72d2e1f51"
+hash = "5c0db080070c438de007097d270971922f839633104c7380c8ce3d4eb52546b3"
 metafile = true
 
 [[files]]
@@ -876,11 +876,6 @@ metafile = true
 [[files]]
 file = "mods/use-glowstone-dust-as-glow-ink-sac.pw.toml"
 hash = "54f71d55472c2bb678a88d4b96146e08a78d4a2dce0e3ec25997fbfde70166c5"
-metafile = true
-
-[[files]]
-file = "mods/utility-belt.pw.toml"
-hash = "5641abf5984cc143e9643a599f00003d371b7551b2f1aa4cffad47c5fc208558"
 metafile = true
 
 [[files]]
