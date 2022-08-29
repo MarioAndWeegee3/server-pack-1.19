@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
-hash = "f85feaebc94b00a87cbe0f8c280d7e9df7387ee07e5530630c491d70c1feda9a"
+hash = "9063d61f195195a0c660ca51ee0275456b6c63bb7be741acd4f151481d5f2fab"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "6328767ca48746cb056fbbc62e9d8c7bed3d7a507bfaf2f03fc16bc97719cca8"
+hash = "a5f9799104952ac1e34050e5bc7107f6cccdbcc9ee0cc1909e2391ab7c8fd515"
 metafile = true
 
 [[files]]
@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "df7973753772957b7457246366135a7f22b9a38d49d30e3ad5f5d8c57aba928d"
+hash = "2a41a8c8a405c67870b77dd17bf3242362c40a5ad6dc6f94071c0bb1dbe7cad2"
 metafile = true
 
 [[files]]
@@ -800,7 +800,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "5c0db080070c438de007097d270971922f839633104c7380c8ce3d4eb52546b3"
+hash = "cba51ca98a478b7a72bfdc9fc528aefcc13f28c609da2454311cc167013aae26"
 metafile = true
 
 [[files]]
