@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "0db999146f81cd596b9dd575c16364e94beaa4086aaca2cc04659dfd549e57f8"
+hash = "08fe01ef16287560b10dde772aee5187e039d83b739e9cf1cfca97060a5ec591"
 metafile = true
 
 [[files]]
