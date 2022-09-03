@@ -664,6 +664,11 @@ hash = "f33984cbbf0d0fb99302b2d70e7eb6b1fefa6839668e972ca7550a1abf26f756"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "b39d79628136225739c40fdeb079aebbec2ea5ba93b95062132da90275cd98c3"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "c820bb11a6c9690e6a7dc028c6c62923a0429b2c6268e1f3104108cb81718b14"
 metafile = true
