@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "08fe01ef16287560b10dde772aee5187e039d83b739e9cf1cfca97060a5ec591"
+hash = "1c41dbff291545b9a8bc687ce068a827c204022ebc6f85923a35a863bf6cd7dd"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
-hash = "a125054941e6358ab8e58052b8fa7b2c589b45818438835277b9dcd4f83938d2"
+hash = "3a727e41ccd4804eb67786380b55ad180bbe50309c3deb6af6fe67043aaf7c23"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "9572cad2ea3e34918c22a64040a6ea4f26bcc773a971b1513a33e137605f6573"
+hash = "c820bb11a6c9690e6a7dc028c6c62923a0429b2c6268e1f3104108cb81718b14"
 metafile = true
 
 [[files]]
@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "fb83b54690c072b68e60e99e4d1ccf67dcd3674a39f3f79b1fba05ffefa5a97a"
+hash = "3b4933cb1ced0fd588c42716ad6cedee237c5ccc5fe13cdc3f35d3aa13b0c18f"
 metafile = true
 
 [[files]]
@@ -850,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "bb2758889e067b69059120980e2084be0786e8b34fa70cc0cdf602313b22f532"
+hash = "a901a3dc82d3c4d390303d79b92464f0e977d739d091deac1be38bd4e9b3939d"
 metafile = true
 
 [[files]]
@@ -895,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "5fa099aa123f6f78f7a06d08500528c229f5812ad16933a4e39d6735019e30e2"
+hash = "cac0379b648f19d6ff2bee184e7ecd446312ee121b5be84285ec449d17489f0c"
 metafile = true
 
 [[files]]
@@ -905,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "42ccd8c73f887dc21b1396f8fd3e2b2d78d3317c88a82670dbcb1e1c1cdd62c3"
+hash = "fd4e908b42dc8db0abe3b9a9bf83cb8eece52f6ec21341a5014344574aeb6b87"
 metafile = true
 
 [[files]]
