@@ -1,0 +1,20 @@
+name = "Do a Barrel Roll"
+filename = "do-a-barrel-roll-1.2.2+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6FtRfnLg/versions/afCcLQ1c/do-a-barrel-roll-1.2.2%2B1.19.jar"
+hash-format = "sha1"
+hash = "cc90f94d883896a3abafaf52a5e498277edb4c96"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "6FtRfnLg"
+version = "afCcLQ1c"
+
+[option]
+optional = true
+default = true
+description = "May make flying with an elytra disorienting"
+

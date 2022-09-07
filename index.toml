@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "1c41dbff291545b9a8bc687ce068a827c204022ebc6f85923a35a863bf6cd7dd"
+hash = "cf56b870fdb25c420689cbfe79bc541d17333c1bd88dad67077bddddde3f82c6"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "7c12405af6102ef57323c5a0752ddf110fe0ba0efdb26f308b82db0c02fc082a"
+hash = "125632312547cdb516036959bb1f370e80ce24e6c5cfb4995341ee23dca7f323"
 metafile = true
 
 [[files]]
@@ -321,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/diamond-economy.pw.toml"
 hash = "2837c17e6f662072797b7ef39d546818072b9c9fadc878cc10f340e418419711"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "6862c08f92d5f00dd35e4990c0529f7c974786ca94070556b6f372cc169a820d"
 metafile = true
 
 [[files]]
@@ -425,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "5b1ab19798cf75c5c68e3b815c1a8d153aeb914820e81e208fcf7115adbc520c"
+hash = "5135623f06f1c17079dc85a61e1817c1050f82b67b3e5ff6a23d775ec0b35c18"
 metafile = true
 
 [[files]]
@@ -510,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "2f282ae7d6e57e005b014ea8c54c01c6b4dace4f6b1481b51ffccf215ace1864"
+hash = "fa9728beda8d8b71aa75d79df0d7cbd31474c03fecaa2bd24c9ab1fdc51eb025"
 metafile = true
 
 [[files]]
@@ -635,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "d08f51b01a493488356c09c2607f68cf8705b1c1cae72f4ca293af0702bce3b4"
+hash = "35f308f679350c301eca53f7446524e225c084f866cf2466427f9b0a2ff918e5"
 metafile = true
 
 [[files]]
@@ -690,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "e9c9a6ca2d0edd8fe4910538ac1928f8cf3df7d94c89aecd6f9c810cecad97da"
+hash = "81daecd653f244648115847857a87198bfd79e5754e7d823dea737c9fb8ae7d6"
 metafile = true
 
 [[files]]
@@ -915,12 +920,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "b064e35edcf22a5f5b0a9a3d6e37049550fe41a43b8a22f55d796594c829ddab"
+hash = "ec050ca55bf307e10b7cbf350e5fd7cd57582cbd7a1c5ef6c364a64ee671fc8d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "373dc04f962571ce299f54df6d3f921b07b4bbb5bcb4194a5d2a7be743b01026"
+hash = "4a23fa54267b53ea8825ea12fb92fd05cdde7890eec5d05a8ef81d00be145fd6"
 metafile = true
 
 [[files]]
