@@ -1,0 +1,14 @@
+name = "Robin Hood"
+filename = "robinhood-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/maKLSh6Z/versions/MvM6DYhV/robinhood-1.0.1.jar"
+hash-format = "sha1"
+hash = "3eda618e8c63dff7f5c10818e06befda3ea29354"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "maKLSh6Z"
+version = "MvM6DYhV"

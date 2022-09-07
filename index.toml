@@ -640,7 +640,12 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "35f308f679350c301eca53f7446524e225c084f866cf2466427f9b0a2ff918e5"
+hash = "8a8e242035dd3732538509c6fc6fe13de170e9cd2569383493b399ca66e6ef14"
+metafile = true
+
+[[files]]
+file = "mods/openblocks-elevator-fabric.pw.toml"
+hash = "b658076852fca1a0d90919ad1bedf8a2282d309280428617d4cd9258d8790284"
 metafile = true
 
 [[files]]
@@ -721,6 +726,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "98fb4298a84616d8e3b908e29ffc08578d319aadfc510c08b3447832a6fa0ee0"
+metafile = true
+
+[[files]]
+file = "mods/robinhood.pw.toml"
+hash = "c32771bf718b2c4cd22d244b434756551c66e11faefc7c8bef3e3560a1bb2154"
 metafile = true
 
 [[files]]
