@@ -1,0 +1,14 @@
+name = "Always a Wither Skull"
+filename = "alwaysawitherskull-fabric_1.19.2-1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RH07bruJ/versions/m1nKEU1d/alwaysawitherskull-fabric_1.19.2-1.9.jar"
+hash-format = "sha1"
+hash = "b53b4af41d7f8d220edc98a48a3712a7c1994221"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "RH07bruJ"
+version = "m1nKEU1d"

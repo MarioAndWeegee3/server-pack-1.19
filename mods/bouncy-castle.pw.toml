@@ -1,0 +1,14 @@
+name = "Bouncy Castle!"
+filename = "bouncycastle-1.0.2+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CRUxDRy8/versions/c5Klir8O/bouncycastle-1.0.2%2B1.19.jar"
+hash-format = "sha1"
+hash = "4b99a1f4106a148eb0941533728d79ef2a96448b"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "CRUxDRy8"
+version = "c5Klir8O"

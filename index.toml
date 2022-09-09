@@ -69,6 +69,11 @@ hash = "cba26f438c185ab8cb33f549e78e8a46baf40294c14e63509bcb87035308a1d7"
 metafile = true
 
 [[files]]
+file = "mods/always-a-wither-skull.pw.toml"
+hash = "053faea02d0384a2c024540209d1b0faf6fe85e834efb252863189f84a56b6eb"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "c3d400a6fd0b217aaeff603707d7964e52ae2fbc9df5d932740311d3503b6681"
 metafile = true
@@ -134,6 +139,11 @@ hash = "3a7badd079ca34163a746b9f5fa9c8a9df180bd6930a05bb119ca61eee50d718"
 metafile = true
 
 [[files]]
+file = "mods/better-spawner-control.pw.toml"
+hash = "849703c6449c960f63e9058a349aad0945b38f03df61c262b88d505c5773d46a"
+metafile = true
+
+[[files]]
 file = "mods/better-than-mending.pw.toml"
 hash = "4f3097deb9a30ae46b7e5f51aabfef469c4bc4ac703a98ae25ffefacb4c59c91"
 metafile = true
@@ -166,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "b6a356a3ede07aaef72fd6e5b60ffa89dac6daf210d4512b3db6b277d32f3a13"
+metafile = true
+
+[[files]]
+file = "mods/bouncy-castle.pw.toml"
+hash = "d98d797b978cbf896f5ec329b61463cc2f358659928b0d00e7914123b041f7b9"
 metafile = true
 
 [[files]]
@@ -261,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/cpm-fabric.pw.toml"
 hash = "4f54381c877c0450d4ebd3c3b97c9a350682bc2093306342159e910c4093c60d"
+metafile = true
+
+[[files]]
+file = "mods/crafting-bench.pw.toml"
+hash = "9c18efbb707d0358297bc66fc1f0af8aa940f2711cee701e1499b3577ada6d6e"
 metafile = true
 
 [[files]]
@@ -729,8 +749,13 @@ hash = "98fb4298a84616d8e3b908e29ffc08578d319aadfc510c08b3447832a6fa0ee0"
 metafile = true
 
 [[files]]
+file = "mods/respawning-shulkers.pw.toml"
+hash = "974b3d5969f44cb6f0cac89f2285a752f4a9795cd5ec36e1e45a8f93f70411c3"
+metafile = true
+
+[[files]]
 file = "mods/robinhood.pw.toml"
-hash = "c32771bf718b2c4cd22d244b434756551c66e11faefc7c8bef3e3560a1bb2154"
+hash = "cf29043c76090b210245cf9cf9a1e1335c701739735889d93ee88724a488a7e2"
 metafile = true
 
 [[files]]
@@ -766,6 +791,11 @@ metafile = true
 [[files]]
 file = "mods/roundaround-pickup-notifications.pw.toml"
 hash = "350acbe31f84f5316d4d386a5403d695396f7a90ee689ed3dc242738f0f59397"
+metafile = true
+
+[[files]]
+file = "mods/scaffolding-drops-nearby.pw.toml"
+hash = "4d1ca6bc28bfd47cdc92f0c75fc0f211c6c943478354fd1c21bc554180ad7948"
 metafile = true
 
 [[files]]
@@ -829,6 +859,11 @@ hash = "cba51ca98a478b7a72bfdc9fc528aefcc13f28c609da2454311cc167013aae26"
 metafile = true
 
 [[files]]
+file = "mods/spiky-spikes.pw.toml"
+hash = "fc00bfc9a2f1de329215d5e24be159e55e06b14d0d56c8943d639177da10588b"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "fc45b583ec8ca686b666c2cdaaab32c2dc013ce491bfbffa4b5fc20b4c758a70"
 metafile = true
@@ -869,13 +904,18 @@ hash = "3d8cbb4bb3d860d7e3a89855548eb9394ddd1d641bb2917af63938c1c0dccb06"
 metafile = true
 
 [[files]]
+file = "mods/tiny-coal.pw.toml"
+hash = "fc86343ccb7a335b4419468a2a3ddfd8ed864d41d8aff88f4674ba487375c5dc"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "a901a3dc82d3c4d390303d79b92464f0e977d739d091deac1be38bd4e9b3939d"
+hash = "e65258fc654b71c5ad5755d017b9c68f8b2019b58df583f7e2da9b7d4e155ccf"
 metafile = true
 
 [[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
-hash = "28453bbd15df6702de11a7206a08671b3549cd3c0a664863cdcfe690a9213aee"
+hash = "ef3498a86e6f3fe58f71c18e278c691d0edc31e2e13be30bf80a8de160bcd145"
 metafile = true
 
 [[files]]

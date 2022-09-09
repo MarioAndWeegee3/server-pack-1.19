@@ -1,14 +1,14 @@
 name = "Robin Hood"
-filename = "robinhood-1.0.1.jar"
+filename = "robinhood-1.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/maKLSh6Z/versions/MvM6DYhV/robinhood-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/maKLSh6Z/versions/Dr9mLstd/robinhood-1.1.0.jar"
 hash-format = "sha1"
-hash = "3eda618e8c63dff7f5c10818e06befda3ea29354"
+hash = "4307d73e715789f161a69a80c9f17e29bb0741b0"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "maKLSh6Z"
-version = "MvM6DYhV"
+version = "Dr9mLstd"

@@ -1,0 +1,14 @@
+name = "Respawning Shulkers"
+filename = "respawningshulkers-fabric_1.19.2-2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gHCmhGUV/versions/FbS0T6iW/respawningshulkers-fabric_1.19.2-2.2.jar"
+hash-format = "sha1"
+hash = "69d6ea5f2b5165d7bb75d6793a405a37efbedac0"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "gHCmhGUV"
+version = "FbS0T6iW"
