@@ -239,6 +239,11 @@ hash = "4700c48ce4ddf2933e613a5871935da5a5d2d31f65fe4e81122b0441076494f1"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "fba65785e5f728b2d43f38e0efdddf8cac00600ce4eafbb572a4e2d1af67d122"
+metafile = true
+
+[[files]]
 file = "mods/colormatic.pw.toml"
 hash = "e937f69ea0e915afcec0ccf93d4cf7f1ce1b295bfc6396c3c9e05d714494545d"
 metafile = true
