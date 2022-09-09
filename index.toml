@@ -25,6 +25,10 @@ file = "config/dash.properties"
 hash = "08cfb15bbe211fbaed3ba8f5827b9ac8778a2fd5cd694522f78f86bf1b0a4e7f"
 
 [[files]]
+file = "config/deepslate_instamine.json"
+hash = "2b12166ce21215d1bd8674e49a8d36b7bfd0590abedd1f832db6eaa9fbf4897d"
+
+[[files]]
 file = "config/deepslatecutting.toml"
 hash = "160e2757eba9cefa9543e6e180b43ecde0c5f38f45d43c11dbe5fc9f80efe2da"
 
