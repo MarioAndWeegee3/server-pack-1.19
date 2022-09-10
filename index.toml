@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b8997f1c22a3801977c06b864685c4b6402b4d7572b27da2005178b1fd772d5d"
+hash = "1d10d18137f3405e4e2fce9e2c6cea0e9b5ac2751d3f30870c41cf6898d5977f"
 metafile = true
 
 [[files]]
@@ -774,7 +774,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "1c7321d83c9cfa99efd897040a52f263c846ef2b60c3c9cec97ac28ab799cad0"
+hash = "91f68c07ebcdb275fbb4c8138b40af83aaae4b882f7fa5b57337b496994f801d"
 metafile = true
 
 [[files]]
@@ -990,6 +990,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "4a23fa54267b53ea8825ea12fb92fd05cdde7890eec5d05a8ef81d00be145fd6"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "0c73de4cae5935b04afe99d803d51f15c3e7174bc82b2c34b6467a2f05acf368"
 metafile = true
 
 [[files]]
