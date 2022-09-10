@@ -683,6 +683,11 @@ hash = "a428f8712edd8f9b9fcd3ba6418d806ecd100b89da47daf45452fe2839209a8e"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "9c7aace5d170489348ceee947faa42a8f89b8ba3f56b7568d9b3574ed47fd91d"
+metafile = true
+
+[[files]]
 file = "mods/packed-inventory.pw.toml"
 hash = "af68ba02952081abe4f9b96c8b320eb3fd3fdbe263cdb3636506f2f1e9c07b6e"
 metafile = true
