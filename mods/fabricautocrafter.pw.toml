@@ -3,12 +3,12 @@ filename = "fabricautocrafter-1.0.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wbqioEpc/versions/1.0.7/fabricautocrafter-1.0.7.jar"
+url = "https://cdn.modrinth.com/data/wbqioEpc/versions/bNsyA2At/fabricautocrafter-1.0.7.jar"
 hash-format = "sha1"
-hash = "7de3be5b4c5b64d728d19274f1dc7c330c09edef"
+hash = "5eab65a39a8d499378d5617e6acd2aa833c335a1"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "wbqioEpc"
-version = "EWZBohuo"
+version = "bNsyA2At"

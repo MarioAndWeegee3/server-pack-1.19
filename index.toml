@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricautocrafter.pw.toml"
-hash = "c826ce8aab1f42e9b7cca4dcd0d88a87eca6e53096b9d844c9692223eacc6320"
+hash = "1ef1091346fc73633cf7455b472adf300eebf80c789e6bc2e7fef884202922ba"
 metafile = true
 
 [[files]]
@@ -534,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinitybuttons.pw.toml"
-hash = "2cb9a9cf2ffba38fc8a48f1da8d93dc2ccedbf7d86606db46c0144c30f19c78d"
+hash = "9b40ccf9aa451025795480505f1a8feea4d58da8a490132045ef623f99a0e6bc"
 metafile = true
 
 [[files]]
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "2a41a8c8a405c67870b77dd17bf3242362c40a5ad6dc6f94071c0bb1dbe7cad2"
+hash = "b8997f1c22a3801977c06b864685c4b6402b4d7572b27da2005178b1fd772d5d"
 metafile = true
 
 [[files]]
@@ -664,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
-hash = "9413d03007564d3eaaf8ec25eabe10d5e741ff0c68017c2d2c824a8ed9be18d3"
+hash = "5d5dfc9f945f16c37926ee537fe5af702759c25e3927aae5d89682ae4d3d03f2"
 metafile = true
 
 [[files]]
@@ -679,7 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/overpoweredmending.pw.toml"
-hash = "9356375de410d10e5bbd535387147145bc0c67c78868e10010c04ba180d14aac"
+hash = "a428f8712edd8f9b9fcd3ba6418d806ecd100b89da47daf45452fe2839209a8e"
 metafile = true
 
 [[files]]
@@ -704,7 +704,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "b39d79628136225739c40fdeb079aebbec2ea5ba93b95062132da90275cd98c3"
+hash = "4b08f9115a2cc6547e8c6de32aadb2299e75b37152511e193e6fb10cc108b4c6"
 metafile = true
 
 [[files]]
